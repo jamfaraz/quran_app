@@ -1,23 +1,16 @@
+# quran_app
 
-#Al_Quran_App
-I have made a quran app using api
+A new Flutter project.
 
-In this app i have used Getx ,apis
+## Getting Started
 
-#🚀 About Me
-I'm learning flutter
+This project is a starting point for a Flutter application.
 
-#🛠 Skills
-Javascript, HTML, Flutter, CSS...
+A few resources to get you started if this is your first Flutter project:
 
-#Documentation
-Documentation
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-#Other Common Github Profile Sections
-👩‍💻 I'm currently working on vpn app...
-
-#🧠 I'm currently learning flutter...
-
-#👯‍♀️ I'm looking to collaborate on E_commerce app...
-
-#💬 Ask me about android ,flutter ...
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
